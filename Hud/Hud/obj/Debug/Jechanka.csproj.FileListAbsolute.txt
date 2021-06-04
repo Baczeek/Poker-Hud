@@ -1,0 +1,10 @@
+C:\Users\bacze\source\repos\Hud\Hud\bin\Debug\Hud.exe.config
+C:\Users\bacze\source\repos\Hud\Hud\bin\Debug\Hud.exe
+C:\Users\bacze\source\repos\Hud\Hud\bin\Debug\Hud.pdb
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Jechanka.Form1.resources
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.Properties.Resources.resources
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Jechanka.csproj.GenerateResource.cache
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Jechanka.csproj.CoreCompileInputs.cache
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.exe
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.pdb
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Jechanka.csprojAssemblyReference.cache

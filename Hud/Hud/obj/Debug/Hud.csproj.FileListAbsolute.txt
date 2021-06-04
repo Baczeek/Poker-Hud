@@ -1,0 +1,11 @@
+c:\users\bacze\source\repos\Hud\Hud\bin\Debug\Hud.exe.config
+c:\users\bacze\source\repos\Hud\Hud\bin\Debug\Hud.exe
+c:\users\bacze\source\repos\Hud\Hud\bin\Debug\Hud.pdb
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.csprojAssemblyReference.cache
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.Form1.resources
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.Properties.Resources.resources
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.csproj.GenerateResource.cache
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.csproj.CoreCompileInputs.cache
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.exe
+c:\users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.pdb
+C:\Users\bacze\source\repos\Hud\Hud\obj\Debug\Hud.PlayerInfoForm.resources
